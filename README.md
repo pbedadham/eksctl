@@ -2,9 +2,9 @@
 This repository provides an example of deploying an Amazon Elastic Kubernetes Service (EKS) cluster using eksctl.
 
 ## Prerequisites
-An Amazon Web Services (AWS) account
-AWS CLI
-eksctl
+* An Amazon Web Services (AWS) account
+* AWS CLI
+* eksctl(installation instructions [here](https://eksctl.io/introduction/#installation))
 
 ## Steps
 Clone this repository to your local machine.
